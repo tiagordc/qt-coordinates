@@ -1,6 +1,6 @@
 Cython==0.29.16
 matplotlib==3.2.1
-Pillow==7.1.1
+Pillow==9.0.0
 PyQt5==5.14.2
 pynput==1.6.8
 pyperclip==1.8.0
